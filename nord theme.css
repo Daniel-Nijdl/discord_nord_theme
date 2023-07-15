@@ -1,12 +1,12 @@
 :root {
---textinputs: #343c4c;
+    --textinputs: #343c4c;
     --pagecolor: #2e3440;
     --btn-color: #455981;
-    --secondarytext: #5e81ac;
-    --usertext: #dedede;
+    --secondarytext: #ff0000;
+    --usertext: #00cc00;
     --redtext: #8c3c4c;
     --whitetext: #dedede;
-    --bodytext: #629499;
+    --bodytext: #ffff00;
     --replytext: #b3dcde;
     --replybkg: #7646ff;
     --contacts: #7dc5cd;
