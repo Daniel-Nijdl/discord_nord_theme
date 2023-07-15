@@ -1,13 +1,13 @@
 :root {
-    --textinputs: #343c4c;
+    --textinputs: #dedede;
     --pagecolor: #2e3440;
     --btn-color: #455981;
-    --secondarytext: #f3f0f0;
-    --usertext: #f3f0f0;
+    --secondarytext: #dedede;
+    --usertext: #dedede;
     --redtext: #8c3c4c;
-    --whitetext: #f3f0f0;
-    --bodytext: #f3f0f0;
-    --replytext: #b1b5b9;
+    --whitetext: #dedede;
+    --bodytext: #dedede;
+    --replytext: #adadad;
     --replybkg: #7646ff;
     --contacts: #7dc5cd;
     --gradientleft: rgba(90, 50, 230, 0.9);
