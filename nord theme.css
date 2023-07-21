@@ -32,8 +32,8 @@
     --background-modifier-active: var(--textinputs);
     --background-modifier-selected: var(--textinputs);
     --background-modifier-accent: var(--pagecolor);
-    --elevation-low: 0 4px 0 rgba(0, 0, 0, 0.4);
-    --elevation-high: 0 8px 16px rgba(0, 0, 0, 0.4);
+    --elevation-low: 0 4px 0 rgba(1, 100, 100, 10);
+    --elevation-high: 0 8px 16px rgba(100, 200, 71, 1);
     --guild-header-text-shadow: none;
     --channeltextarea-background: var(--textinputs);
     --activity-card-background: var(--textinputs);
