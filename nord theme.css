@@ -18,7 +18,7 @@
 .theme-dark {
     --header-secondary: var(--bodytext);
     --text-normal: var(--secondarytext);
-    --text-muted: #FFC0CB;
+    --text-muted: var(--secondarytext);
     --channels-default: var(--secondarytext);
     --interactive-normal: var(--bodytext);
     --interactive-active: var(--bodytext);
@@ -142,3 +142,5 @@
 #BLOCKED-tab {
     background-color: var(--pagecolor) !important;
 }
+.unread-36eUEm {
+    background-color: #f3d56a; 
