@@ -1,5 +1,5 @@
 :root {
-    --textinputs: #343c4c;
+/*     --textinputs: #343c4c;
     --pagecolor: #2e3440;
     --btn-color: #455981;
     --secondarytext: #ffff00;
@@ -12,19 +12,32 @@
     --contacts: #7dc5cd;
     --gradientleft: rgba(90, 50, 230, 0.9);
     --gradientright: rgba(173, 83, 240, 0.8);
+    --background-secondary-alt: #2e3440 !important; */
+    --textinputs: #343c4c;
+    --pagecolor: #2e3440;
+    --btn-color: #455981;
+    --secondarytext: #cccccc;
+    --usertext: #cccccc;
+    --redtext: #8c3c4c;
+    --whitetext: #dedede;
+    --bodytext: #cccccc;
+    --replytext: #969696;
+    --replybkg: #7646ff;
+    --contacts: #7dc5cd;
+    --gradientleft: rgba(90, 50, 230, 0.9);
+    --gradientright: rgba(173, 83, 240, 0.8);
     --background-secondary-alt: #2e3440 !important;
-	--unread-badge: #eceff499 !important;
-	--unread-background: #eceff402 !important;
 }
 
 .theme-dark {
     --header-secondary: var(--bodytext);
     --text-normal: var(--secondarytext);
     --text-muted: var(--secondarytext);
-    --channels-default: var(--secondarytext);
+/*     --channels-default: var(--secondarytext); */
+    --channels-default: #ff0000;
     --interactive-normal: var(--bodytext);
     --interactive-active: var(--bodytext);
-    --interactive-muted: var(--bodytext);
+    --interactive-muted: #95999d;
     --background-primary: var(--pagecolor);
     --background-secondary: var(--pagecolor);
     --background-tertiary: var(--pagecolor);
@@ -34,8 +47,8 @@
     --background-modifier-active: var(--textinputs);
     --background-modifier-selected: var(--textinputs);
     --background-modifier-accent: var(--pagecolor);
-    --elevation-low: 0 4px 0 rgba(1, 100, 100, 10);
-    --elevation-high: 0 8px 16px rgba(100, 200, 71, 1);
+    --elevation-low: 0 4px 0 rgba(0, 0, 0, 0.4);
+    --elevation-high: 0 8px 16px rgba(0, 0, 0, 0.4);
     --guild-header-text-shadow: none;
     --channeltextarea-background: var(--textinputs);
     --activity-card-background: var(--textinputs);
