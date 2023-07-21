@@ -18,7 +18,7 @@
 .theme-dark {
     --header-secondary: var(--bodytext);
     --text-normal: var(--secondarytext);
-    --text-muted: var(--secondarytext);
+    --text-muted: #FFC0CB;
     --channels-default: var(--secondarytext);
     --interactive-normal: var(--bodytext);
     --interactive-active: var(--bodytext);
