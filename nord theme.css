@@ -34,7 +34,8 @@
     --text-normal: var(--secondarytext);
     --text-muted: var(--secondarytext);
 /*     --channels-default: var(--secondarytext); */
-    --channels-default: #ff0000;
+/*     --channels-default: #ff0000; */
+    --channels-unread: #ff0000
     --interactive-normal: var(--bodytext);
     --interactive-active: var(--bodytext);
     --interactive-muted: #95999d;
