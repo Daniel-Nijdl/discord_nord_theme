@@ -13,6 +13,7 @@
     --gradientleft: rgba(90, 50, 230, 0.9);
     --gradientright: rgba(173, 83, 240, 0.8);
     --background-secondary-alt: #2e3440 !important;
+    --unread-color: #ffffff;
 }
 
 .theme-dark {
@@ -144,5 +145,3 @@
 }
 .unread-36eUEm {
     background-color: #f3d56a; 
-.unread {
-    background-color: #ffffff
