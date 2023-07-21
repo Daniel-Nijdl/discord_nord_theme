@@ -21,10 +21,10 @@
       --text-muted: var(--secondarytext);
       --channels-default: var(--secondarytext);
       --channels-default: #ff0000;
-/*       --channels-unread: #ff0000; */
+      /* --channels-unread: #ff0000; */
       --interactive-normal: var(--bodytext);
       --interactive-active: var(--bodytext);
-      --interactive-muted: #95999d;
+      --interactive-muted: #ff00dd;
       --background-primary: var(--pagecolor);
       --background-secondary: var(--pagecolor);
       --background-tertiary: var(--pagecolor);
